@@ -12,8 +12,10 @@
 - Скриншот 3.6 - информация после создания нового RAID массива.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.6.png)
 - Скриншот 3.7 - изменение pvs до и после создания нового zip тома.
+
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.7.png)
 - Скриншот 3.8 - информация о дисках после создания zip тома.
+
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.8.png)
 - Скриншот 3.9 - var, root, var находятся на md0.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.9.png)
