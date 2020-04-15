@@ -12,10 +12,8 @@
 - Скриншот 3.6 - информация после создания нового RAID массива.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.6.png)
 - Скриншот 3.7 - изменение pvs до и после создания нового zip тома.
-
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.7.png)
 - Скриншот 3.8 - информация о дисках после создания zip тома.
-
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.8.png)
 - Скриншот 3.9 - var, root, var находятся на md0.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.9.png)
@@ -28,8 +26,10 @@
 - Скриншот 3.13 - информация после добавления ssd5 в RAID и увеличения размеров на общих дисках.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.13.png)
 - Скриншот 3.14 - размер  sda(e)2=md127.
+
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.14.png)
 - Скриншот 3.15 - размер VG увеличился.
+
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.15.png)
 - Скриншот 3.16 - информация об увеличении размеров root и var.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.16.png)
