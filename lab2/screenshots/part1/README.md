@@ -20,6 +20,7 @@
 - Скриншот 1.9 - установка GRUB на первый диск (sda).
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.9.png)
 - Скриншот 1.10 - первая информация о дисках.
+  
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.10.png)
 - Скриншот 1.11 - первая информация о RAID.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.11.png)
