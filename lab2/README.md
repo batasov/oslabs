@@ -1,8 +1,8 @@
 ## Лабораторная работа № 2
 ## ФИО - Батасов Егор Александрович
 ## Группа - ББСО-01-18
-- Часть №1 Начало : установка ос и настройка RAID и LVM. (screenshots -> part1)
-# Начало : установка ос и настройка RAID и LVM.
+## Часть №1 Начало : установка ос и настройка RAID и LVM. (screenshots -> part1)
+- Начало : установка ос и настройка RAID и LVM.
 - Создаем виртуальную машину с характеристиками : 1gb ram, 1 cpu, 2 hdd - (sdd1, ssd2), SATA контройлер настроен на 4 порта.
 
 - Скриншот 1.1 - показывает нам настройку разметки дисков.
@@ -31,7 +31,7 @@
 - Скриншот 1.12 - первая информация о pvs, vgs, lvs.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part1/1.12.png)
 
-- Часть №2 По заданию отключается один SSD,по заданию мы заменяем его и с помощью LVM сохраняем все данные и копируем на новый диск. (screenshots -> part2)
+# Часть №2 По заданию отключается один SSD,по заданию мы заменяем его и с помощью LVM сохраняем все данные и копируем на новый диск. (screenshots -> part2)
 
 - Скриншот 2.1 - реакция ос на удаление ssd1.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part2/2.1.png)
@@ -51,7 +51,7 @@
 
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part2/2.7.png)
 
-- Часть №3 В этой части по заданию отключается еще один SSD, мы заменяем его на новый sdd на 7 gb и добавляем 2 новых HDD.
+# Часть №3 В этой части по заданию отключается еще один SSD, мы заменяем его на новый sdd на 7 gb и добавляем 2 новых HDD.
 С помощью LVM и RAID спасаем данные и включаем новый SSD в VG. (screenshots -> part3)
 - Скриншот 3.1 - информация о дисках после удаления ssd2.
 ![Image alt](https://github.com/batasov/oslabs/raw/master/lab2/screenshots/part3/3.1.png)
